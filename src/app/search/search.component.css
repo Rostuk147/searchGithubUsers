@@ -1,0 +1,38 @@
+.search_block{
+    margin: 0 auto;
+    width: 1000px;
+    padding-top: 50px;
+}
+.search_input{
+    margin-top: 15px;
+}
+
+.mat-form-field{
+    width: 100%;
+}
+.center{
+    text-align: center;
+}
+.card{
+    margin-top: 40px;
+    width: 50%;
+    margin: 0 auto;
+}
+.card img{
+    width: 250px;
+    height: 250px;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+.btn-search{
+    position: absolute;
+    right: 0;
+    top: -10px;
+}
+.input input{
+    display: inline-block;
+    width: inherit;
+    vertical-align: middle;
+}
